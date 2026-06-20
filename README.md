@@ -51,19 +51,33 @@
 > **생성형 AI + 비전 AI + VLM 파이프라인**을 RunPod GPU 서버 환경에서 구축하고 있습니다.
 > Claude API와 FLUX.1을 활용한 멀티모달 AI 시스템 개발에 집중하고 있습니다.
 
+**🧭 Spatial Reasoning**
+
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [spatial-reasoning-vlm](https://github.com/YONGJI-04/spatial-reasoning-vlm) | VLM 공간 추론 능력 평가 벤치마크 (방향/거리/깊이/포함 관계) | Claude Vision |
+
+**👁 Vision & Generative AI**
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [vlm-pipeline](https://github.com/YONGJI-04/vlm-pipeline) | Claude Vision + BLIP-2/LLaVA 비교 분석 | VLM + Claude |
 | [Text-to-Image-API](https://github.com/YONGJI-04/Text-to-Image-API) | 텍스트 → 이미지 생성 파이프라인 | Claude API + FLUX.1 |
 | [image-to-text](https://github.com/YONGJI-04/image-to-text) | 이미지 → 텍스트 분석 (Claude Vision) | Claude Vision |
-| [vlm-pipeline](https://github.com/YONGJI-04/vlm-pipeline) | Claude Vision + BLIP-2/LLaVA 비교 분석 | VLM + Claude |
-| [image-qa](https://github.com/YONGJI-04/image-qa) | 이미지 기반 시각 질의응답 | Claude Vision |
-| [blog-generator](https://github.com/YONGJI-04/blog-generator) | AI 블로그 글 + 커버 이미지 자동 생성 | Claude + FLUX.1 |
-| [thumbnail-generator](https://github.com/YONGJI-04/thumbnail-generator) | AI 유튜브 썸네일 생성 | Claude + FLUX.1 |
+| [image-qa](https://github.com/YONGJI-04/image-qa) | 이미지 기반 시각 질의응답 (세션 유지) | Claude Vision |
 | [image-poem](https://github.com/YONGJI-04/image-poem) | 이미지에서 영감받은 시 창작 | Claude Vision |
 | [product-analyzer](https://github.com/YONGJI-04/product-analyzer) | 제품 이미지 자동 분석 | Claude Vision |
 | [storyboard-generator](https://github.com/YONGJI-04/storyboard-generator) | 스토리 → 스토리보드 이미지 생성 | Claude + FLUX.1 |
+| [thumbnail-generator](https://github.com/YONGJI-04/thumbnail-generator) | AI 유튜브 썸네일 생성 (5가지 스타일) | Claude + FLUX.1 |
+| [blog-generator](https://github.com/YONGJI-04/blog-generator) | AI 블로그 글 + 커버 이미지 자동 생성 | Claude + FLUX.1 |
+
+**🤖 LLM & RAG**
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
 | [rag-qa](https://github.com/YONGJI-04/rag-qa) | PDF/TXT 문서 기반 RAG Q&A 시스템 | LangChain + ChromaDB + Claude |
 | [langchain-agent](https://github.com/YONGJI-04/langchain-agent) | LangChain 기반 자율 AI 에이전트 | LangChain + Claude |
+| [Slack-bot](https://github.com/YONGJI-04/Slack-bot) | Claude AI 기반 Slack 챗봇 (멘션/DM) | Claude + slack-bolt |
 
 ---
 
