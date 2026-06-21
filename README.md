@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Vision-Language+Models+%7C+Spatial+Reasoning;Generative+AI+Systems+%7C+Multimodal+AI;Reproducible+Evaluation+%7C+AI+Pipelines)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![Gmail](https://img.shields.io/badge/Gmail-jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
-[![Location](https://img.shields.io/badge/Seoul-South%20Korea-111827?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![email](https://img.shields.io/badge/email-yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
+[![gmail](https://img.shields.io/badge/gmail-jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
+[![location](https://img.shields.io/badge/location-Seoul%2C%20South%20Korea-111827?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -61,14 +61,54 @@
 
 ## 🚀 Selected Projects
 
-| Category | Project | Description | Stack |
-| --- | --- | --- | --- |
-| 🧭 Spatial Reasoning | [spatial-reasoning-experiments](https://github.com/YONGJI-04/spatial-reasoning-experiments) | VLM 공간 추론 벤치마크 평가 및 공개 결과 정리 | Python · VLM Evaluation |
-| 👁 Vision & Generative AI | [vlm-pipeline](https://github.com/YONGJI-04/vlm-pipeline) | Vision-language 모델 비교 및 이미지 분석 파이프라인 | Claude Vision · BLIP-2 · LLaVA |
-| 👁 Vision & Generative AI | [Text-to-Image-API](https://github.com/YONGJI-04/Text-to-Image-API) | 텍스트 기반 이미지 생성 API 파이프라인 | Claude API · FLUX.1 |
-| 👁 Vision & Generative AI | [image-to-text](https://github.com/YONGJI-04/image-to-text) | 이미지 내용을 텍스트로 분석하는 실험 프로젝트 | Claude Vision |
-| 🤖 LLM & RAG | [rag-qa](https://github.com/YONGJI-04/rag-qa) | 문서 기반 질의응답을 위한 RAG 시스템 | LangChain · ChromaDB · Claude |
-| 🤖 LLM & RAG | [langchain-agent](https://github.com/YONGJI-04/langchain-agent) | LangChain 기반 AI 에이전트 실험 | LangChain · Claude |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>🧭 Spatial Reasoning</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/spatial-reasoning-experiments">spatial-reasoning-experiments</a></td>
+    <td>VLM 공간 추론 벤치마크 평가 및 공개 결과 정리</td>
+    <td>Python · VLM Evaluation</td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td colspan="3"><strong>👁 Vision & Generative AI</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/vlm-pipeline">vlm-pipeline</a></td>
+    <td>Vision-language 모델 비교 및 이미지 분석 파이프라인</td>
+    <td>Claude Vision · BLIP-2 · LLaVA</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/Text-to-Image-API">Text-to-Image-API</a></td>
+    <td>텍스트 기반 이미지 생성 API 파이프라인</td>
+    <td>Claude API · FLUX.1</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/image-to-text">image-to-text</a></td>
+    <td>이미지 내용을 텍스트로 분석하는 실험 프로젝트</td>
+    <td>Claude Vision</td>
+  </tr>
+  <tr><td colspan="3"><br></td></tr>
+  <tr>
+    <td colspan="3"><strong>🤖 LLM & RAG</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/rag-qa">rag-qa</a></td>
+    <td>문서 기반 질의응답을 위한 RAG 시스템</td>
+    <td>LangChain · ChromaDB · Claude</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YONGJI-04/langchain-agent">langchain-agent</a></td>
+    <td>LangChain 기반 AI 에이전트 실험</td>
+    <td>LangChain · Claude</td>
+  </tr>
+</table>
 
 ---
 
@@ -87,7 +127,7 @@
 
 ### 📬 협업 및 연구 문의 환영합니다
 
-[![Email](https://img.shields.io/badge/Email-yongyong@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![Gmail](https://img.shields.io/badge/Gmail-jxy040108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
+[![email](https://img.shields.io/badge/email-yongyong@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
+[![gmail](https://img.shields.io/badge/gmail-jxy040108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
 
 </div>
