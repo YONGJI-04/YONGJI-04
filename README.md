@@ -16,10 +16,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **한성대학교 AI응용학과**에서 컴퓨터 비전과 생성형 AI를 중심으로 공부하고 있으며, VLM과 멀티모달 시스템으로 관심을 확장하고 있습니다.
-- 🔬 최근에는 **VLM의 공간 추론 능력 평가**와 benchmark 기반 비교 분석에 집중하고 있습니다.
-- 🧭 넓은 기술 나열보다 **재현 가능한 실험**, **명확한 평가 프로토콜**, **실제로 동작하는 AI 파이프라인**을 중요하게 생각합니다.
-- 🚀 밝고 실험적인 태도로 만들되, 결과물은 깔끔하게 정리하고 검증 가능한 형태로 남기려 합니다.
+- 🎓 **한성대학교 AI응용학과**
+- 🔬 **연구 분야**: 컴퓨터 비전 (Computer Vision) · 생성형 AI (Generative AI) · VLM (Vision-Language Model) · 공간 추론 (Spatial Reasoning)
+- 🤖 **관심사**: 멀티모달 AI · VLM 평가 · 텍스트-이미지 파이프라인 · RAG 시스템
+- 🧭 **Focus**: 재현 가능한 실험, 명확한 평가 프로토콜, 실제로 동작하는 AI 파이프라인
+- 📍 Seoul, South Korea
+- 📫 **Contact**: [yongyong@hansung.ac.kr](mailto:yongyong@hansung.ac.kr) · [jxy040108@gmail.com](mailto:jxy040108@gmail.com)
 
 ---
 
