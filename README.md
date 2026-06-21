@@ -124,7 +124,7 @@
 
 ### 📬 협업 및 연구 문의 환영합니다
 
-[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
-[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
+[![yongyong@hansung.ac.kr](https://img.shields.io/badge/yongyong@hansung.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yongyong@hansung.ac.kr)
+[![jxy040108@gmail.com](https://img.shields.io/badge/jxy040108@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jxy040108@gmail.com)
 
 </div>
