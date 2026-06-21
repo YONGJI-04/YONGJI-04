@@ -49,37 +49,25 @@
 
 ## 🔬 Research Focus
 
-| Area | What I Work On |
-| --- | --- |
-| **Vision-Language Models** | VLM benchmark evaluation, model comparison, output analysis |
-| **Spatial Reasoning** | spatial relation understanding, visual reasoning, failure analysis |
-| **Generative AI Systems** | Claude, FLUX.1, LangChain 기반 멀티모달 파이프라인 구축 |
-| **Reproducible Experiments** | 실험 로그, 결과표, benchmark protocol 정리 |
+| Area                         | What I Work On                                                 |
+| ---------------------------- | -------------------------------------------------------------- |
+| **Vision-Language Models**   | VLM benchmark evaluation, model comparison, output analysis    |
+| **Spatial Reasoning**        | spatial relation understanding, visual reasoning, failure analysis |
+| **Generative AI Systems**    | Claude, FLUX.1, LangChain 기반 멀티모달 파이프라인 구축       |
+| **Reproducible Experiments** | 실험 로그, 결과표, benchmark protocol 정리                    |
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🧭 Spatial Reasoning
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [spatial-reasoning-experiments](https://github.com/YONGJI-04/spatial-reasoning-experiments) | VLM 공간 추론 벤치마크 평가 및 공개 결과 정리 | Python · VLM Evaluation |
-
-### 👁 Vision & Generative AI
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [vlm-pipeline](https://github.com/YONGJI-04/vlm-pipeline) | Vision-language 모델 비교 및 이미지 분석 파이프라인 | Claude Vision · BLIP-2 · LLaVA |
-| [Text-to-Image-API](https://github.com/YONGJI-04/Text-to-Image-API) | 텍스트 기반 이미지 생성 API 파이프라인 | Claude API · FLUX.1 |
-| [image-to-text](https://github.com/YONGJI-04/image-to-text) | 이미지 내용을 텍스트로 분석하는 실험 프로젝트 | Claude Vision |
-
-### 🤖 LLM & RAG
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [rag-qa](https://github.com/YONGJI-04/rag-qa) | 문서 기반 질의응답을 위한 RAG 시스템 | LangChain · ChromaDB · Claude |
-| [langchain-agent](https://github.com/YONGJI-04/langchain-agent) | LangChain 기반 AI 에이전트 실험 | LangChain · Claude |
+| Category | Project | Description | Stack |
+| --- | --- | --- | --- |
+| 🧭 Spatial Reasoning | [spatial-reasoning-experiments](https://github.com/YONGJI-04/spatial-reasoning-experiments) | VLM 공간 추론 벤치마크 평가 및 공개 결과 정리 | Python · VLM Evaluation |
+| 👁 Vision & Generative AI | [vlm-pipeline](https://github.com/YONGJI-04/vlm-pipeline) | Vision-language 모델 비교 및 이미지 분석 파이프라인 | Claude Vision · BLIP-2 · LLaVA |
+| 👁 Vision & Generative AI | [Text-to-Image-API](https://github.com/YONGJI-04/Text-to-Image-API) | 텍스트 기반 이미지 생성 API 파이프라인 | Claude API · FLUX.1 |
+| 👁 Vision & Generative AI | [image-to-text](https://github.com/YONGJI-04/image-to-text) | 이미지 내용을 텍스트로 분석하는 실험 프로젝트 | Claude Vision |
+| 🤖 LLM & RAG | [rag-qa](https://github.com/YONGJI-04/rag-qa) | 문서 기반 질의응답을 위한 RAG 시스템 | LangChain · ChromaDB · Claude |
+| 🤖 LLM & RAG | [langchain-agent](https://github.com/YONGJI-04/langchain-agent) | LangChain 기반 AI 에이전트 실험 | LangChain · Claude |
 
 ---
 
